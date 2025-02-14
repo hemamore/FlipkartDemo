@@ -9,5 +9,9 @@ public class Choco {
 		System.out.println("My first Method");
 		System.out.println("My method");
 	}
+	private void m1() {
+		// TODO Auto-generated method stub
+System.out.println("I am m1");
+	}
 
 }
